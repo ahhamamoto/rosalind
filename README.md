@@ -3,3 +3,4 @@
 ## Bioinformatics Stronghold
 - DNA - Counting DNA Nucleotides
 - RNA - Transcribing DNA into RNA
+- REVC - Complementing a Strand of DNA
