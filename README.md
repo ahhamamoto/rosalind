@@ -7,3 +7,4 @@
 - FIB - Rabbits and Recurrency Relations
 - GC - Computing GC Content
 - PROT - Translating RNA into Protein
+- HAMM - Counting Point Mutations
