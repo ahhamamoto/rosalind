@@ -1,4 +1,4 @@
-# Repositório para o Rosalind
+# Problemas Resolvidos
 
 ## Bioinformatics Stronghold
 - DNA - Counting DNA Nucleotides
