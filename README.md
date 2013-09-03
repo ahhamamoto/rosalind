@@ -9,3 +9,4 @@
 - PROT - Translating RNA into Protein
 - HAMM - Counting Point Mutations
 - SUBS - Combing Through the Haystack
+- PRTM - Calculating Protein Mass
